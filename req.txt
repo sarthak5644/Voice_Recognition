@@ -1,0 +1,17 @@
+wolframalpha
+pyttsx3
+datetime
+wikipedia
+winshell
+pyjokes
+feedparser
+requests
+bs4   
+beautifulsoup4
+twilio
+ecapture
+SpeechRecognition
+wikipedia
+wolframalpha
+clint
+pyaudio
